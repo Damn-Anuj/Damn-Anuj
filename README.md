@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damn-anuj&label=Profile%20views&color=0e75b6&style=flat" alt="damn-anuj" /> </p>
 
-- 🌱 I’m currently learning **Figma,Kotlin**
+- 🌱 I’m currently learning **A.I Machine Learning**
 
 - 📫 How to reach me **daamnanuj28@gmail.com**
 
